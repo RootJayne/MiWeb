@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My Web on My Web</title>
+		<link>http://example.org/</link>
+		<description>Recent content in My Web </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>es</language>
+		
+		<managingEditor>Page(&#34;My Web&#34;) (Hugo Bugjay)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 18 May 2022 18:36:06 -0500</lastBuildDate>
+		
+		<atom:link href="/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
