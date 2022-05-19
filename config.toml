@@ -27,7 +27,7 @@ theme = "harbor"
       url = "search"
       weight = 3
  
-  [[params.social]]
+  [[params.github]]
      name = "github"
      url = "https://github.com/RootJayne"
      icon = "fas fa-brands fa-github-square fa-lg "
